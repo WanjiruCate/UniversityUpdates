@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_student"
+        android:title="Update Students "
+        android:icon="@mipmap/ic_update_black_24dp">
+
+    </item>
+    <item android:id="@+id/nav_staff"
+        android:title="Update Staff"
+        android:icon="@mipmap/ic_update_black_24dp">
+
+    </item>
+    <item android:id="@+id/nav_all"
+        android:title="Update All"
+        android:icon="@mipmap/ic_update_black_24dp">
+
+    </item>
+    <item android:id="@+id/nav_logout"
+        android:title="Log Out"
+        android:icon="@mipmap/ic_power_settings_new_black_24dp">
+
+    </item>
+
+</menu>
